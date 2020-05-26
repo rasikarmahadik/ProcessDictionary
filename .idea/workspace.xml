@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1cRFgVsHQGp3SJHPd0Sz4SxDgkw" />
+  <component name="RunManager" selected="JUnit.WordSplitterTests (1)">
+    <configuration name="WordPairTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="conflicting-objectives" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.readable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.readable" />
+      <option name="MAIN_CLASS_NAME" value="org.example.readable.WordPairTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSplitterTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="conflicting-objectives" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.readable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.readable" />
+      <option name="MAIN_CLASS_NAME" value="org.example.readable.WordSplitterTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSplitterTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="conflicting-objectives" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.performance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.performance" />
+      <option name="MAIN_CLASS_NAME" value="org.example.performance.WordSplitterTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordSplitterTests (1)" />
+        <item itemvalue="JUnit.WordPairTests" />
+        <item itemvalue="JUnit.WordSplitterTests" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
